@@ -1,0 +1,15 @@
+{
+  "contacts": [
+    {
+      "name": "Sasha",
+      "lastName": "Andrey",
+      "surname": "Putin",
+      "phone": "+996 (706) 66-16-16",
+      "address": "117, Gagarina Str.",
+      "email": "askatdovut1@gmail.com",
+      "linkedin": "njnjnj",
+      "category": "Stranger",
+      "id": 3
+    }
+  ]
+}

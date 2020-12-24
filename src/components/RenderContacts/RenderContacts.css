@@ -1,0 +1,16 @@
+.icons{
+    width: 1%;
+}
+
+.btn{
+    background-color: inherit;
+    border-style: unset;
+}
+
+.btn:hover{
+    opacity: 0.6;
+}
+
+.delete:hover{
+    background-color: red;
+}
